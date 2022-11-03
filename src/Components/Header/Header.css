@@ -106,6 +106,11 @@
   margin-right: 5px;
 }
 
+.loginPage {
+  cursor: pointer;
+  margin-right: 60px;
+}
+
 .loginPage hr {
   margin: 0;
   background-color: black;
@@ -114,6 +119,10 @@
 
 .loginPage a{
   text-decoration: none;
+}
+
+.logout:hover {
+  cursor: pointer;
 }
 
 .sellMenu {
@@ -146,6 +155,10 @@
   font-weight: 700;
   letter-spacing: 0.5px;
   color: #002f34;
+}
+
+.sellMenu:hover {
+  cursor: pointer;
 }
 
 /* .sellMenu .sellMenuContent svg {
