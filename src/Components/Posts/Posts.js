@@ -62,7 +62,7 @@ function Posts() {
       </div>
       <div className="recommendations">
         <div className="heading">
-          <span>Fresh recommendations</span>
+          <span>Popular recommendations</span>
         </div>
 
 <div className='recom'>
@@ -76,12 +76,12 @@ function Posts() {
               <img src="../../../Images/R15V3.jpg" alt="" />
             </div>
             <div className="content">
-              <p className="rate">&#x20B9; 250000</p>
-              <span className="kilometer">Two Wheeler</span>
-              <p className="name"> YAMAHA R15V3</p>
+              <p className="rate">&#x20B9; 100000</p>
+              <span className="kilometer">YAMAHA R15V3</span>
+              <p className="name">Motorcycle </p>
             </div>
             <div className="date">
-              <span>10/5/2021</span>
+              <span>10/5/2022</span>
             </div>
           </div>
         </div>
@@ -92,15 +92,91 @@ function Posts() {
               <Heart></Heart>
             </div>
             <div className="image">
-              <img src="../../../Images/R15V3.jpg" alt="" />
+              <img src="../../../Images/image.webp" alt="" />
             </div>
             <div className="content">
-              <p className="rate">&#x20B9; 250000</p>
-              <span className="kilometer">Two Wheeler</span>
-              <p className="name"> YAMAHA R15V3</p>
+              <p className="rate">&#x20B9; 259999</p>
+              <span className="kilometer">Etios Liva</span>
+              <p className="name"> Car</p>
             </div>
             <div className="date">
-              <span>10/5/2021</span>
+              <span>1/8/2022</span>
+            </div>
+          </div>
+        </div>
+
+        <div className="cards fcard">
+          <div className="card">
+            <div className="favorite">
+              <Heart></Heart>
+            </div>
+            <div className="image">
+              <img src="../../../Images/imagePhone.webp" alt="" />
+            </div>
+            <div className="content">
+              <p className="rate">&#x20B9; 20000</p>
+              <span className="kilometer">Google Pixel</span>
+              <p className="name">Mobile Phone </p>
+            </div>
+            <div className="date">
+              <span>18/3/2022</span>
+            </div>
+          </div>
+        </div>
+
+        <div className="cards fcard">
+          <div className="card">
+            <div className="favorite">
+              <Heart></Heart>
+            </div>
+            <div className="image">
+              <img src="../../../Images/imageScooter.webp" alt="" />
+            </div>
+            <div className="content">
+              <p className="rate">&#x20B9; 45399</p>
+              <span className="kilometer">Aprilia SR 150</span>
+              <p className="name"> Motorcycle</p>
+            </div>
+            <div className="date">
+              <span>21/9/2022</span>
+            </div>
+          </div>
+        </div>
+
+        <div className="cards fcard">
+          <div className="card">
+            <div className="favorite">
+              <Heart></Heart>
+            </div>
+            <div className="image">
+              <img src="../../../Images/imageBike.webp" alt="" />
+            </div>
+            <div className="content">
+              <p className="rate">&#x20B9; 213400</p>
+              <span className="kilometer">Hero Xtreme</span>
+              <p className="name">Motorcycle</p>
+            </div>
+            <div className="date">
+              <span>16/5/2022</span>
+            </div>
+          </div>
+        </div>
+
+        <div className="cards fcard">
+          <div className="card">
+            <div className="favorite">
+              <Heart></Heart>
+            </div>
+            <div className="image">
+              <img src="../../../Images/imageCar.webp" alt="" />
+            </div>
+            <div className="content">
+              <p className="rate">&#x20B9; 950000</p>
+              <span className="kilometer">Honda C-RV</span>
+              <p className="name"> Car</p>
+            </div>
+            <div className="date">
+              <span>28/7/2022</span>
             </div>
           </div>
         </div>
