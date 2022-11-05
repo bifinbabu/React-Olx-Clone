@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Netflix-Clone/static/css/main.f0b9916f.chunk.css",
+    "main.js": "/React-Netflix-Clone/static/js/main.267ecbe6.chunk.js",
+    "main.js.map": "/React-Netflix-Clone/static/js/main.267ecbe6.chunk.js.map",
+    "runtime-main.js": "/React-Netflix-Clone/static/js/runtime-main.c16a688c.js",
+    "runtime-main.js.map": "/React-Netflix-Clone/static/js/runtime-main.c16a688c.js.map",
+    "static/js/2.dd8deb4c.chunk.js": "/React-Netflix-Clone/static/js/2.dd8deb4c.chunk.js",
+    "static/js/2.dd8deb4c.chunk.js.map": "/React-Netflix-Clone/static/js/2.dd8deb4c.chunk.js.map",
+    "index.html": "/React-Netflix-Clone/index.html",
+    "static/css/main.f0b9916f.chunk.css.map": "/React-Netflix-Clone/static/css/main.f0b9916f.chunk.css.map",
+    "static/js/2.dd8deb4c.chunk.js.LICENSE.txt": "/React-Netflix-Clone/static/js/2.dd8deb4c.chunk.js.LICENSE.txt",
+    "static/media/olx-logo.b3f099a2.png": "/React-Netflix-Clone/static/media/olx-logo.b3f099a2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c16a688c.js",
+    "static/js/2.dd8deb4c.chunk.js",
+    "static/css/main.f0b9916f.chunk.css",
+    "static/js/main.267ecbe6.chunk.js"
+  ]
+}
